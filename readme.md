@@ -1,5 +1,6 @@
 Run (aka Canabalt)
 =====
+![preview image](https://raw.githubusercontent.com/sheng92/GBA-endless-runner/master/run-preview.png)
 
 Overview
 --------
